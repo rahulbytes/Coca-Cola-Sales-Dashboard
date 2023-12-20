@@ -21,3 +21,5 @@ Your feedback is valuable! Feel free to reach out with suggestions, improvements
 
 ## Credits
 - **Kenji Explains**: Valuable insights and guidance from the YouTube video used in creating this dashboard.
+- 
+<img width="618" alt="Screenshot 2023-12-20 132304" src="https://github.com/rahulbytes/Coca-Cola-Sales-Dashboard/assets/142666454/eaa67fc0-ce76-4b13-9aa8-eb63ba6dd80d">
